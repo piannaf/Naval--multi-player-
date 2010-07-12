@@ -1,0 +1,15 @@
+Justin Mancinelli
+
+Assignment 4 for COMP2303 at the University of Queensland
+
+Description: 
+    A multi-player, networked implementation of battle ship written in C.
+
+Files:
+    COMP2303_2010_Assignment4.pdf -- Design specification
+    Makefile -- For making the executable from source
+    standard.rules -- Standard rules
+    map1.map -- Example map from design specification from Naval (Single Player) [Assignment 1]
+    nclient.c -- Source of Naval client
+    nserver.c -- Source of Naval server
+
